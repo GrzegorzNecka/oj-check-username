@@ -19,3 +19,4 @@ Rozpisz na kartce poszczególne kroki, które musisz zrealizować. Zaplanuj ró�
 
 - Wprowadzenie do Vue Router: https://router.vuejs.org/guide/
 - Dynamiczne ścieżki: https://router.vuejs.org/guide/essentials/dynamic-matching.html
+https://vuejs.org/v2/guide/single-file-components.html
